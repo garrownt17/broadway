@@ -1,0 +1,53 @@
+body	{
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+header,.title	{
+	color:white;
+	background-image: url("../images/flatiron.png");
+}
+
+header	{
+	padding-bottom:2em;
+	margin-bottom:2em;
+}
+
+h1	{
+	font-size:70px;
+	font-weight: bold;
+}
+
+h2	{
+	font-size: 32px;
+	font-weight: bold;
+}
+h3	{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+a	{
+	color: white;
+	font-size: 18px;
+	padding: 0px 10px;
+}
+
+p 	{
+	font-size: 14px;
+}
+
+footer	{
+	font-size: 11px;
+	background-color: dimgray;
+	color: white;
+}
+
+th	{
+	padding-bottom:1em;
+}
+
+.center{
+	text-align: left;
+	list-style-position: inside;
+}
